@@ -1,4 +1,7 @@
 public static void main(String[] args) {
-	int age = 10;
-	System.out.println("Hello World");
+	for(int i = 0 ;i<=100;i++){
+		int age = 10;
+		age++;
+		System.out.println("Hello World");
+	}
 }
